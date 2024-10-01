@@ -49,5 +49,3 @@ Cough → COVID-19
 
 This network visually represents how symptoms are connected to potential diseases, helping the AI system to reason about possible diagnoses based on the symptoms presented.
 
-## 3. Presentation Development
-https://github.com/user-attachments/assets/ff33a8c2-da96-450d-be5f-09279f404373
